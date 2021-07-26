@@ -1,4 +1,9 @@
 # Who am I?
+[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio%20code&logoColor=ffffff&color=00a2ff)](https://visualstudio.microsoft.com/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Jouhney)
+
 I'm Jonathan, @Jouhney , and I am learning Flutter to try to get into programming. I hope that by publishing my code on GitHub,
 I stay motivated enough to keep on coding. We'll see how that goes.
 
