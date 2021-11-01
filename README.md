@@ -1,15 +1,11 @@
-# Who am I?
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Who am I?
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-I'm Jonathan, @Jouhney , and I am learning Flutter to try to get into programming. I hope that by publishing my code on GitHub,
-I stay motivated enough to keep on coding. We'll see how that goes.
-
 ## My Plans
-Even though I am currently learning Dart / Flutter, I want to start learning Deno or NodeJS.
+Even though I am currently learning Dart / Flutter, I want to start learning NodeJS and Kotlin.
 ### Server
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
