@@ -1,18 +1,31 @@
 # Who am I?
-[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
-[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
-[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio%20code&logoColor=ffffff&color=00a2ff)](https://visualstudio.microsoft.com/)
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Jouhney)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 I'm Jonathan, @Jouhney , and I am learning Flutter to try to get into programming. I hope that by publishing my code on GitHub,
 I stay motivated enough to keep on coding. We'll see how that goes.
 
 ## My Plans
-Even though I am currently learning Dart / Flutter, I want to start learning some other, modern languages. I am interested in Go and Python, specifically FastAPI.
-* Python w/ FastAPI
-* Go
+Even though I am currently learning Dart / Flutter, I want to start learning Deno or NodeJS.
+### Server
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-I am working on my first big project, [Timehub](https://github.com/Jouhney/timehub#readme). It should become a drop-in replacement for the Google Nest Hub, and is under heavy development. If you're interested, check out the [website](https://jouhney.github.com/timehub) and the repository.
+Since I already took a look at Flutter, so front-end development, my focus shifted to backend development and databases. I am learning NodeJS and Express.js to create serverside JavaScript applications. Since everyone is using Express.js I take a look at it as well.
+### Database / SQL
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+After having looked at SQL and having tried out Postgres on Supabase I settled on using Postgres. There is no specific reason, it's just what I used in the beginning.
+
+### Flutter
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+I've chosen Flutter as front-end because I dislike HTML, CSS and JavaScript in the Browser. With Flutter I only have to write Dart, which I really enjoy.
+
 <!---
 Jouhney/Jouhney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
