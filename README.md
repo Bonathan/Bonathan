@@ -23,6 +23,13 @@ Even though I am currently learning Dart / Flutter, I want to started learning J
 
 I know that this table currently looks a bit sad and depressing, but I don't worry too much about it. I don't know what comes tomorrow: maybe I lose my interest in Kotlin KMM or React.js, I don't know. 😉
 
+# Projects
+The project I am currently working on is News Watch. It originally was created for a school project, but I kepp on working on it. Check it out, it's a news app, where the biggest news outlets come together.
+
+[News Watch](https://github.com/GymGB-2i/News-Watch)
+
+Drop a star and follow, if you're interested!
+
 Btw. I'm learning [t](https://github.com/tommasopeduzzi/t), developed by [T. Peduzzi](https://github.com/tommasopeduzzi)
 
 <!---
