@@ -19,7 +19,7 @@ I am Jonathan, currently a high school student with focus on visual arts. My int
 Even though I am currently learning Dart / Flutter, I want to started learning JavaScript, specifically NodeJS and React.js.
 | Planned     | Currently learning  | Comfortable using |
 |-------------|---------------------|-------------------|
-| Kotlin KMM  | NodeJS              | Flutter           |
+| Kotlin KMM  | Deno                | Flutter           |
 | Redis       | React.js            |                   |
 |             | PostgreSQL          |                   |
 
